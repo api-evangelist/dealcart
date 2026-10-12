@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/dealcart/integrations
+- https://n8n.io/integrations/dealcart/
+- https://composio.dev/toolkits/dealcart
+- https://monid.ai/tools/dealcart
+checked:
+- https://composio.dev/toolkits/dealcart
+- https://monid.ai/tools/dealcart
+- https://n8n.io/integrations/dealcart/
+- https://zapier.com/apps/dealcart/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
